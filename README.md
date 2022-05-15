@@ -1,6 +1,6 @@
 `注：本文部分内容如有需要，请至链接处查看`
 
-# python预备知识
+# 预备知识
 
 ## 简介
 [传送门](https://edu.csdn.net/skill/python/python-3-0?category=1)
