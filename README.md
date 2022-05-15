@@ -241,42 +241,154 @@ ab = 1
 # 进阶语法
 
 ## 列表推导式
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-17?category=3)
 
 ## 三元表达式
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-18?category=3)
 
 ## 断言
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-19?category=3)
 
 ## with-as
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-20?category=3)
 
 ## 异常捕获预处理
 [传送门](https://edu.csdn.net/skill/python/python-3-21?category=3)
 
+-------------------------------------------------------------------------
+
 ### 常见异常类型
 
 ## 字符串方法
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-22?category=3)
 
 ## lambda函数
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-23?category=3)
 
 ## 文件
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-24?category=3)
 
 ## 常用标准库
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-25?category=3)
 
 ## 自负编码与解码
-[传送门]()
+[传送门](https://edu.csdn.net/skill/python/python-3-26?category=3)
 
-# 
-[传送门]()
+# 面向对象编程
 
-# 
-[传送门]()
+## 类核对象的概念
+[传送门](https://edu.csdn.net/skill/python/python-3-27?category=4)
 
-# 
-[传送门]()
+## 类成员
+[传送门](https://edu.csdn.net/skill/python/python-3-28?category=4)
+
+## 面向对象三要素
+[传送门](https://edu.csdn.net/skill/python/python-3-29?category=4)
+
+## 创建类
+[传送门](https://edu.csdn.net/skill/python/python-3-30?category=4)
+
+## 抽象类
+[传送门](https://edu.csdn.net/skill/python/python-3-31?category=4)
+
+## 访问限制
+[传送门](https://edu.csdn.net/skill/python/python-3-32?category=4)
+
+## 获取对象信息
+[传送门](https://edu.csdn.net/skill/python/python-3-33?category=4)
+
+# 基本技能
+
+## 解析命令行参数
+[传送门](https://edu.csdn.net/skill/python/python-insert-4?category=6)
+
+## 时间日期处理
+[传送门](https://edu.csdn.net/skill/python/python-3-128?category=6)
+
+## 数据文件读写
+[传送门](https://edu.csdn.net/skill/python/python-3-129?category=6)
+
+## 数据库操作
+[传送门](https://edu.csdn.net/skill/python/python-3-130?category=6)
+
+## 操作系统和环境
+[传送门](https://edu.csdn.net/skill/python/python-3-131?category=6)
+
+## 源码打包
+[传送门](https://edu.csdn.net/skill/python/python-3-133?category=6)
+
+## 网络编程
+[传送门](https://edu.csdn.net/skill/python/python-3-134?category=6)
+
+## 发送邮件
+[传送门](https://edu.csdn.net/skill/python/python-3-135?category=6)
+
+# Web应用开发
+
+## Web开发基础知识
+[传送门](https://edu.csdn.net/skill/python/python-3-136?category=7)
+`如有更多需要，请参考www.github.com/GBMluke/Web`
+
+## Django
+[传送门](https://edu.csdn.net/skill/python/python-3-137?category=7)
+
+## Tornado
+[传送门](https://edu.csdn.net/skill/python/python-3-138?category=7)
+
+## Flask
+[传送门](https://edu.csdn.net/skill/python/python-3-139?category=7)
+
+# 网络爬虫
+
+## urllib
+[传送门](https://edu.csdn.net/skill/python/python-3-147?category=8)
+
+## 正则表达式
+[传送门](https://edu.csdn.net/skill/python/python-3-148?category=8)
+
+## Beautiful Soup
+[传送门](https://edu.csdn.net/skill/python/python-3-149?category=8)
+
+## lxml
+[传送门](https://edu.csdn.net/skill/python/python-3-150?category=8)
+
+## requests
+[传送门](https://edu.csdn.net/skill/python/python-3-151?category=8)
+
+## Selenium
+[传送门](https://edu.csdn.net/skill/python/python-3-152?category=8)
+
+## Scrapy框架
+[传送门](https://edu.csdn.net/skill/python/python-3-153?category=8)
+
+## pyspider框架的使用
+[传送门](https://edu.csdn.net/skill/python/python-3-171?category=8)
+
+## 验证码处理
+[传送门](https://edu.csdn.net/skill/python/python-3-158?category=8)
+
+## 动态渲染页面爬取
+[传送门](https://edu.csdn.net/skill/python/python-3-166?category=8)
+
+## 模拟登录
+[传送门](https://edu.csdn.net/skill/python/python-3-169?category=8)
+
+## autoscraper
+[传送门](https://edu.csdn.net/skill/python/python-7330398a1359430c9b02244f689203c7?category=8)
+
+## selectolax
+[传送门](https://edu.csdn.net/skill/python/python-113824a228cf45f9b4f6e854a992c2f9?category=8)
+
+## requests-html
+[传送门](https://edu.csdn.net/skill/python/python-7d8a025ed5434ecc84708407e3db6d17?category=8)
+
+# 桌面应用开发
+
+## Tkinter
+[传送门](https://edu.csdn.net/skill/python/python-3-174?category=9)
+
+## PyQT
+[传送门](https://edu.csdn.net/skill/python/python-3-175?category=9)
+
+## WxPython
+[传送门](https://edu.csdn.net/skill/python/python-3-176?category=9)
