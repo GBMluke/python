@@ -255,9 +255,26 @@ ab = 1
 ## 异常捕获预处理
 [传送门](https://edu.csdn.net/skill/python/python-3-21?category=3)
 
--------------------------------------------------------------------------
-
 ### 常见异常类型
+
+|常见异常类|描述|
+|-|-|
+|FloatingPointError|浮点计算错误|
+|OverflowError|数值运算超出最大限制|
+|ZeroDivisionError|除(或取模)零 (所有数据类型)|
+|AttributeError|对象没有这个属性|
+|IOError|输入/输出操作失败|
+|ImportError|导入模块/对象失败|
+|IndexError|序列中没有此索引(index)|
+|KeyError|映射中没有这个键|
+|MemoryError|内存溢出错误(对于Python解释器不是致命的)|
+|VauleError|传入无效的参数|
+
+### 使用方法
+
+|except|else|finally|
+|-|-|-|
+|发生异常，执行这段代码|如果没有异常，执行这段代码|无论是否发生异常，都执行最后的代码|
 
 ## 字符串方法
 [传送门](https://edu.csdn.net/skill/python/python-3-22?category=3)
